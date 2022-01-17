@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media0.giphy.com/media/32mC2kXYWCsg0/giphy.gif" height="350><img src="https://i.kym-cdn.com/entries/icons/original/000/022/255/tumblr_inline_o58r6dmSfe1suaed2_500.gif" height="360"></p>
+<p align="center"><img src="https://media0.giphy.com/media/32mC2kXYWCsg0/giphy.gif" height="350"><img src="https://i.kym-cdn.com/entries/icons/original/000/022/255/tumblr_inline_o58r6dmSfe1suaed2_500.gif" height="360"></p>
 
 <img src="https://img.shields.io/static/v1?label=&message=1&color=maroon" height="25"> Tải <a href="https://laravel.com" target="_blank"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" height="15" width="15"> XAMPP</a>
 , [🏠Composer](https://getcomposer.org/download/), Laravel bản mới nhất.
