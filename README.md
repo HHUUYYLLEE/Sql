@@ -21,6 +21,6 @@
  
 <img src="https://img.shields.io/static/v1?label=&message=10&color=maroon" height="25"> <img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" height="20"> Chạy lệnh:  `php artisan storage:link`.
  
-<img src="https://img.shields.io/static/v1?label=&message=11&color=maroon" height="25"> <img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" height="20"> Chạy lệnh:  `php artisan serve`. 
+<img src="https://img.shields.io/static/v1?label=&message=11&color=maroon" height="25"> <img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" height="20"> Chạy lệnh:  `php artisan serve`.
  
 <img src="https://img.shields.io/static/v1?label=&message=12&color=maroon" height="25"> <img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" height="20"> Copy link và <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" height="20"> chạy (ví dụ http://127.0.0.1:8000/).
