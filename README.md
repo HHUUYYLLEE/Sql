@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/static/v1?label=&message=1&color=maroon" height="25"> Tải <a href="https://laravel.com" target="_blank"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" height="15" width="15"> XAMPP</a>
 , [🏠Composer](https://getcomposer.org/download/), Laravel bản mới nhất.
  
-<img src="https://img.shields.io/static/v1?label=&message=2&color=maroon" height="25"> Chạy (<img src="https://img.shields.io/static/v1?label=&message=Start&color=white">) 2 module <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=gray"> và <img src="https://img.shields.io/static/v1?label=&message=Apache&color=gray"> trong <img src="https://img.shields.io/static/v1?label=XAMPP%20Control%20Panel&message=xampp-control.exe&color=orange">.
+<img src="https://img.shields.io/static/v1?label=&message=2&color=maroon" height="25"> Chạy (<img src="https://img.shields.io/static/v1?label=&message=Start&color=white">) 2 module <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=white"> và <img src="https://img.shields.io/static/v1?label=&message=Apache&color=white"> trong <img src="https://img.shields.io/static/v1?label=&message=xampp-control.exe&color=orange"> (XAMPP Control Panel).
  
 <img src="https://img.shields.io/static/v1?label=&message=3&color=maroon" height="25"> Mở <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" height="57">, đưa cơ sở dữ liệu lên.
  
