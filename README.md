@@ -15,7 +15,7 @@
  
 <img src="https://img.shields.io/static/v1?label=&message=7&color=maroon" height="25"> <img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" height="20"> Chạy lệnh: `cp .env.example .env`.
  
-<img src="https://img.shields.io/static/v1?label=&message=8&color=maroon" height="25"> Vào <img src="https://files.softicons.com/download/application-icons/toolbar-icons-by-gentleface/png/512/document.png" height="20"> .env đổi tên database (DB_DATABASE=) giống với tên database trên <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" height="57">.
+<img src="https://img.shields.io/static/v1?label=&message=8&color=maroon" height="25"> Vào <img src="https://files.softicons.com/download/application-icons/toolbar-icons-by-gentleface/png/512/document.png" height="20"> .env trong thư mục code đổi tên database (DB_DATABASE=) giống với tên database trên <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" height="57">.
  
 <img src="https://img.shields.io/static/v1?label=&message=9&color=maroon" height="25"> <img src="https://cdn.iconscout.com/icon/free/png-256/powershell-3628993-3030218.png" height="20"> Chạy lệnh: `php artisan key:generate`.
  
