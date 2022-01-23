@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media0.giphy.com/media/32mC2kXYWCsg0/giphy.gif" height="300"><img src="https://i.kym-cdn.com/entries/icons/original/000/022/255/tumblr_inline_o58r6dmSfe1suaed2_500.gif" height="300"></p>
 
 <img src="https://img.shields.io/static/v1?label=&message=1&color=maroon" height="25"> Tải <a href="https://laravel.com" target="_blank"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" height="15" width="15"> XAMPP</a>
-, [🏠Composer](https://getcomposer.org/download/), Laravel (`composer create-project laravel/laravel ten-app` bản mới nhất.
+, [🏠Composer](https://getcomposer.org/download/), Laravel (`composer create-project laravel/laravel ten-app`) bản mới nhất.
  
 <img src="https://img.shields.io/static/v1?label=&message=2&color=maroon" height="25"> Chạy (<img src="https://img.shields.io/static/v1?label=&message=Start&color=white">) 2 module <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=white"> và <img src="https://img.shields.io/static/v1?label=&message=Apache&color=white"> trong <img src="https://img.shields.io/static/v1?label=&message=xampp-control.exe&color=orange"> (XAMPP Control Panel).
  
